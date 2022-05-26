@@ -1,0 +1,29 @@
+{
+  "menu": [
+    {
+      "url": "#",
+      "name": "Dashboard",
+      "slug": "dashboard",
+      "id":"#ico",
+      "icon": "desktop"
+    },
+    {
+      "url": "/product",
+      "name": "Produk",
+      "slug": "apps",
+      "icon": "thumbnails-big"
+    },
+    {
+      "url": "#",
+      "name": "Transaksi",
+      "slug": "ui",
+      "icon": "credit-card-out"
+    },
+    {
+      "url": "/voucher",
+      "name": "Voucher",
+      "slug": "forms-tables",
+      "icon": "tag"
+    }
+  ]
+}
